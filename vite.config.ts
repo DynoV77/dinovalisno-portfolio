@@ -5,7 +5,7 @@ import { componentTagger } from "@leadconnector/vibe-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/dinovalisno-portfolio/",
+  base: "/",
   server: {
     host: "::",
     port: 8080,
