@@ -18,7 +18,7 @@ const About = () => {
             with experience in print and digital production. I am currently
             expanding my skills into{" "}
             <span className="font-medium text-foreground">
-              CRM and CRM systems
+              CRM and GoHighLevel systems
             </span>
             , with a focus on practical lead management, pipelines, forms,
             workflows, and follow-up processes.

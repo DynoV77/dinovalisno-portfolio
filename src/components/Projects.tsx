@@ -3,7 +3,7 @@ import ProjectCard, { type Project } from "./ProjectCard";
 const projects: Project[] = [
   {
     id: "contact-management",
-    category: "CRM · CRM",
+    category: "CRM · GoHighLevel",
     title: "Contact Management",
     description:
       "Practiced organizing contacts, adding relevant information, applying tags, and using contact records to keep customer information organized.",
@@ -11,15 +11,15 @@ const projects: Project[] = [
   },
   {
     id: "lead-capture-form",
-    category: "CRM · CRM",
+    category: "CRM · GoHighLevel",
     title: "Lead Capture Form",
     description:
-      "Created and configured a lead capture form and practiced connecting submitted information with contact records inside CRM.",
+      "Created and configured a lead capture form and practiced connecting submitted information with contact records inside GoHighLevel.",
     skills: "Forms · Contact Creation · Field Mapping",
   },
   {
     id: "sales-pipeline",
-    category: "CRM · CRM",
+    category: "CRM · GoHighLevel",
     title: "Sales Pipeline Setup",
     description:
       "Created and organized a sample sales pipeline with defined opportunity stages to practice tracking leads through a sales process.",
@@ -30,7 +30,7 @@ const projects: Project[] = [
     category: "CRM · Automation",
     title: "Basic Follow-Up Workflow",
     description:
-      "Practiced creating a basic automated follow-up process using triggers and actions inside CRM.",
+      "Practiced creating a basic automated follow-up process using triggers and actions within GoHighLevel.",
     skills: "Workflows · Triggers · Actions · Follow-Up Automation",
   },
 ];
@@ -48,7 +48,7 @@ const Projects = () => {
             Projects
           </h2>
           <p className="mx-auto max-w-2xl text-base text-muted-foreground">
-            A selection of CRM and CRM practice work. Screenshots will be added
+            A selection of GoHighLevel CRM practice projects. Screenshots will be added
             as each project is documented.
           </p>
         </div>

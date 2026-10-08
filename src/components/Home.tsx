@@ -14,7 +14,7 @@ const Home = () => {
       <div className="mx-auto max-w-3xl text-center">
         {/* Unobtrusive label */}
         <span className="mb-6 inline-block rounded-full border border-border bg-secondary/50 px-4 py-1.5 text-xs font-medium uppercase tracking-[0.2em] text-muted-foreground">
-          CRM / CRM
+          GOHIGHLEVEL / CRM
         </span>
 
         {/* Name — intentionally restrained */}
@@ -23,13 +23,13 @@ const Home = () => {
         </p>
 
         {/* Main visual heading */}
-        <h1 className="mb-6 text-4xl font-bold leading-tight tracking-tight text-foreground sm:text-5xl md:text-6xl">
-          CRM / CRM Portfolio
+        <h1 className="mb-6 text-4xl font-medium leading-tight tracking-tight text-foreground sm:text-5xl md:text-6xl">
+          GoHighLevel / CRM Portfolio
         </h1>
 
         <p className="mx-auto mb-10 max-w-xl text-lg leading-relaxed text-muted-foreground">
-          A collection of CRM and CRM practice projects documenting the systems,
-          workflows, and processes I have learned and built along the way.
+          A collection of GoHighLevel CRM practice projects documenting the
+          systems, workflows, and processes I have learned and built along the way.
         </p>
 
         {/* Buttons */}

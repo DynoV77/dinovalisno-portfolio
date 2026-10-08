@@ -67,7 +67,7 @@ const Contact = () => {
           </h2>
           <p className="mx-auto max-w-xl text-base text-muted-foreground">
             Interested in discussing a project or need help organizing your
-            leads and customer-management process? I'd be happy to hear from
+            leads and customer management process? I'd be happy to hear from
             you.
           </p>
         </div>
@@ -170,7 +170,7 @@ const Contact = () => {
           )}
           {status === "idle" && (
             <p className="mt-3 text-xs text-muted-foreground">
-              Your message is sent securely to my inbox. I'll reply to the email
+              Your message will be sent to my inbox. I'll reply to the email
               address you provide.
             </p>
           )}

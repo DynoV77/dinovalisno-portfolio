@@ -8,7 +8,7 @@ const Footer = () => {
     <footer className="border-t border-border px-5 py-8">
       <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 sm:flex-row">
         <p className="text-sm text-muted-foreground">
-          Dino Valisno — CRM / CRM Practice Portfolio
+          Dino Valisno — CRM / GoHighLevel Practice Portfolio
         </p>
         <nav className="flex gap-6">
           {[
